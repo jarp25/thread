@@ -34,8 +34,8 @@
 
 // Uncomment the following line to enable debugging messages
 // or enable on a per file basis prior to inclusion of util.h
-//#define ENABLE_THRD_DEBUG
-#ifdef ENABLE_THRD_DEBUG
+//#define ENABLE_THD_DEBUG
+#ifdef ENABLE_THD_DEBUG
 #define DBG( x ) x
 #else
 #define DBG( x ) 

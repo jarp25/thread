@@ -176,8 +176,8 @@
         <translation>Potvrďte šifrovanie peňaženky</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR THRD&lt;/b&gt;!</source>
-        <translation>Upozornenie: Ak zašifrujete vašu peňaženku a stratíte prístupové heslo, potom &lt;b&gt;prídete o všetky svoje THRD-y&lt;/b&gt;!</translation>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR THD&lt;/b&gt;!</source>
+        <translation>Upozornenie: Ak zašifrujete vašu peňaženku a stratíte prístupové heslo, potom &lt;b&gt;prídete o všetky svoje THD-y&lt;/b&gt;!</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
@@ -841,28 +841,28 @@
         <translation>Prosím vyberte úroveň súkromia.</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 THRD</source>
-        <translation>Použiť 2 rozdielne masternode pre fixovanie prostriedkov až do 1000 THRD</translation>
+        <source>Use 2 separate masternodes to mix funds up to 1000 THD</source>
+        <translation>Použiť 2 rozdielne masternode pre fixovanie prostriedkov až do 1000 THD</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 THRD</source>
-        <translation>Použiť 8 rozdielnych masternode pre fixovanie prostriedkov až do 1000 THRD</translation>
+        <source>Use 8 separate masternodes to mix funds up to 1000 THD</source>
+        <translation>Použiť 8 rozdielnych masternode pre fixovanie prostriedkov až do 1000 THD</translation>
     </message>
     <message>
         <source>Use 16 separate masternodes</source>
         <translation>Použiť 16 rozdielnych masternode</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 THRD to anonymize 1000 THRD</source>
-        <translation>Táto možnosť je najrýchlejšia a bude stáť približne 0.025 THRD pre anonimizáciu 1000 THRD</translation>
+        <source>This option is the quickest and will cost about ~0.025 THD to anonymize 1000 THD</source>
+        <translation>Táto možnosť je najrýchlejšia a bude stáť približne 0.025 THD pre anonimizáciu 1000 THD</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 THRD to anonymize 1000 THRD</source>
-        <translation>Táto možnosť je stredne rýchla bude stáť približne 0.05 THRD pre anonimizáciu 1000 THRD</translation>
+        <source>This option is moderately fast and will cost about 0.05 THD to anonymize 1000 THD</source>
+        <translation>Táto možnosť je stredne rýchla bude stáť približne 0.05 THD pre anonimizáciu 1000 THD</translation>
     </message>
     <message>
-        <source>0.1 THRD per 1000 THRD you anonymize.</source>
-        <translation>0.1 THRD za 1000 THRD ktoré spravíte anonymnými.</translation>
+        <source>0.1 THD per 1000 THD you anonymize.</source>
+        <translation>0.1 THD za 1000 THD ktoré spravíte anonymnými.</translation>
     </message>
     <message>
         <source>This is the slowest and most secure option. Using maximum anonymity will cost</source>
@@ -1558,8 +1558,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>Čiastka a kolá:</translation>
     </message>
     <message>
-        <source>0 THRD / 0 Rounds</source>
-        <translation>0 THRD / 0 Kôl</translation>
+        <source>0 THD / 0 Rounds</source>
+        <translation>0 THD / 0 Kôl</translation>
     </message>
     <message>
         <source>Submitted Denom:</source>
@@ -2508,11 +2508,11 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>InstantSend</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 yarn and the transaction is only 250 bytes, then "per kilobyte" only pays 250 yarn in fee,&lt;br /&gt;while "at least" pays 1000 yarn. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>Ak je vlastný poplatok nastavený na 1000 duffov a transakcia je len 250 bytov, v tom prípade "za kilobajt" zaplatí iba 250 duffov na poplatkoch, &lt;br /&gt;zatiaľ čo "pri najmenšom" zaplatí 1000 duffov. Pre transakcie väčšie ako jeden kilobajt, obe zaplatia rovnako za kilobajt. </translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 yarn and the transaction is only 250 bytes, then "per kilobyte" only pays 250 yarn in fee,&lt;br /&gt;while "total at least" pays 1000 yarn. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>Ak je vlastný poplatok nastavený na 1000 duffov a transakcia je len 250 bytov, v tom prípade "za kilobajt" zaplatí iba 250 duffov na poplatkoch, &lt;br /&gt;zatiaľ čo "celkovo pri najmenšom" zaplatí 1000 duffov. Pre transakcie väčšie ako jeden kilobajt, obe zaplatia rovnako za kilobajt. </translation>
     </message>
     <message>
@@ -3488,8 +3488,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>Poslať Mince</translation>
     </message>
     <message>
-        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 THRD.</source>
-        <translation>InstantSend zatiaľ nepodporuje posielanie takto vysokých čiastok. Transakcie sú limitované na %1 THRD.</translation>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 THD.</source>
+        <translation>InstantSend zatiaľ nepodporuje posielanie takto vysokých čiastok. Transakcie sú limitované na %1 THD.</translation>
     </message>
     </context>
 <context>
@@ -3794,8 +3794,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>Tento produkt obsahuje softvér vyvinutý projektom OpenSSL pre použitie sady nástrojov OpenSSL &lt;https://www.openssl.org/&gt; a kryptografického softvéru napísaného Eric Young a UPnP softvér napísaný Thomas Bernard.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 THRD.</source>
-        <translation>Nenašiel sa dostatok prostriedkov pre túto transakciu, ktorú nie sú rovné 1000 THRD.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 1000 THD.</source>
+        <translation>Nenašiel sa dostatok prostriedkov pre túto transakciu, ktorú nie sú rovné 1000 THD.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -4166,8 +4166,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>Kľúč KeePassHttp pre šifrovanú AES komunikáciu s KeePass</translation>
     </message>
     <message>
-        <source>Keep N THRD anonymized (default: %u)</source>
-        <translation>Udržiavať N THRD anonymizovaných (predvolené: %u)</translation>
+        <source>Keep N THD anonymized (default: %u)</source>
+        <translation>Udržiavať N THD anonymizovaných (predvolené: %u)</translation>
     </message>
     <message>
         <source>Keep at most &lt;n&gt; unconnectable transactions in memory (default: %u)</source>
@@ -4206,8 +4206,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>Pokiaľ &lt;category&gt; nie je nastavená, alebo &lt;category&gt; = 1, vypíš všetky informácie pre ladenie.</translation>
     </message>
     <message>
-        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 THRD.</source>
-        <translation>InstantSend zatiaľ nepodporuje posielanie takto vysokých čiastok. Transakcie sú limitované na %1 THRD.</translation>
+        <source>InstantSend doesn't support sending values that high yet. Transactions are currently limited to %1 THD.</source>
+        <translation>InstantSend zatiaľ nepodporuje posielanie takto vysokých čiastok. Transakcie sú limitované na %1 THD.</translation>
     </message>
     <message>
         <source>InstantSend requires inputs with at least %d confirmations, you might need to wait a few minutes and try again.</source>
@@ -4254,8 +4254,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>Nedá sa nájsť dostatok denominácií PrivateSend pre túto transakciu. </translation>
     </message>
     <message>
-        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 THRD.</source>
-        <translation>Nedá sa nájsť dostatok ne-denominovaných PrivateSend zdrojov pre túto transakciu, ktoré nie sú rovné 1000 THRD.</translation>
+        <source>Unable to locate enough PrivateSend non-denominated funds for this transaction that are not equal 1000 THD.</source>
+        <translation>Nedá sa nájsť dostatok ne-denominovaných PrivateSend zdrojov pre túto transakciu, ktoré nie sú rovné 1000 THD.</translation>
     </message>
     <message>
         <source>Unsupported argument -socks found. Setting SOCKS version isn't possible anymore, only SOCKS5 proxies are supported.</source>

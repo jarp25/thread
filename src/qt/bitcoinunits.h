@@ -57,10 +57,10 @@ public:
      */
     enum Unit
     {
-        THRD,
-        mTHRD,
-        uTHRD,
-        duffs
+        THD,
+        mTHD,
+        uTHD,
+        yarn
     };
 
     enum SeparatorStyle

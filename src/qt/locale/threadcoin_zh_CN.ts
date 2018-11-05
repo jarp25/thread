@@ -176,7 +176,7 @@
         <translation>确认加密钱包</translation>
     </message>
     <message>
-        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR THRD&lt;/b&gt;!</source>
+        <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR THD&lt;/b&gt;!</source>
         <translation>警告:如果把钱包加​​密后又忘记密码，你就会从此&lt;b&gt;失去所有的达世币了&lt;/b&gt;!</translation>
     </message>
     <message>
@@ -864,11 +864,11 @@ Address: %4
         <translation>请选择隐私等级。</translation>
     </message>
     <message>
-        <source>Use 2 separate masternodes to mix funds up to 1000 THRD</source>
+        <source>Use 2 separate masternodes to mix funds up to 1000 THD</source>
         <translation>使用2个独立的主节点混合资金最多1000达世币</translation>
     </message>
     <message>
-        <source>Use 8 separate masternodes to mix funds up to 1000 THRD</source>
+        <source>Use 8 separate masternodes to mix funds up to 1000 THD</source>
         <translation>使用8个独立的主节点混合资金最多1000达世币</translation>
     </message>
     <message>
@@ -876,15 +876,15 @@ Address: %4
         <translation>使用16个独立主节点</translation>
     </message>
     <message>
-        <source>This option is the quickest and will cost about ~0.025 THRD to anonymize 1000 THRD</source>
+        <source>This option is the quickest and will cost about ~0.025 THD to anonymize 1000 THD</source>
         <translation>此选项为最快速度，需要支付0.025达世币/1000达世币的匿名处理费用。</translation>
     </message>
     <message>
-        <source>This option is moderately fast and will cost about 0.05 THRD to anonymize 1000 THRD</source>
+        <source>This option is moderately fast and will cost about 0.05 THD to anonymize 1000 THD</source>
         <translation>此选项为一般速度，需要支付0.05达世币/1000达世币的匿名处理费用。</translation>
     </message>
     <message>
-        <source>0.1 THRD per 1000 THRD you anonymize.</source>
+        <source>0.1 THD per 1000 THD you anonymize.</source>
         <translation>0.1达世币/1000达世币的匿名处理费用。</translation>
     </message>
     <message>
@@ -1432,7 +1432,7 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>数量与循环次数:</translation>
     </message>
     <message>
-        <source>0 THRD / 0 Rounds</source>
+        <source>0 THD / 0 Rounds</source>
         <translation>0 达世币 / 0 循环数</translation>
     </message>
     <message>
@@ -1457,7 +1457,7 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
     </message>
     <message>
         <source>The denominations you submitted to the Masternode.&lt;br&gt;To mix, other users must submit the exact same denominations.</source>
-        <translation>您向主节点所提交的用以面额化混合的THRD,&lt;br&gt;当其他用户提交相同的面额化THRD数量时,将开始混合.</translation>
+        <translation>您向主节点所提交的用以面额化混合的THD,&lt;br&gt;当其他用户提交相同的面额化THD数量时,将开始混合.</translation>
     </message>
     <message>
         <source>(Last Message)</source>
@@ -2277,15 +2277,15 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>最小化</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 yarn and the transaction is only 250 bytes, then "per kilobyte" only pays 250 yarn in fee,&lt;br /&gt;while "at least" pays 1000 yarn. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>
-如果自定手续费设定为1000 duffs,而交易信息只有250字节的话,那么选择"每千位字节"就只会支付250 duffs的手续费,&lt;br /&gt;而"至少"会支付1000 duffs.
+如果自定手续费设定为1000 yarn,而交易信息只有250字节的话,那么选择"每千位字节"就只会支付250 yarn的手续费,&lt;br /&gt;而"至少"会支付1000 yarn.
 但如果交易信息大于一千字节,那么两者都要支付千字节费用.</translation>
     </message>
     <message>
-        <source>If the custom fee is set to 1000 duffs and the transaction is only 250 bytes, then "per kilobyte" only pays 250 duffs in fee,&lt;br /&gt;while "total at least" pays 1000 duffs. For transactions bigger than a kilobyte both pay by kilobyte.</source>
+        <source>If the custom fee is set to 1000 yarn and the transaction is only 250 bytes, then "per kilobyte" only pays 250 yarn in fee,&lt;br /&gt;while "total at least" pays 1000 yarn. For transactions bigger than a kilobyte both pay by kilobyte.</source>
         <translation>
-如果自定手续费设定为1000 duffs,而交易信息只有250字节的话,那么选择"每千位字节"就只会支付250 duffs的手续费,&lt;br /&gt;而"总共至少"会支付1000 duffs.
+如果自定手续费设定为1000 yarn,而交易信息只有250字节的话,那么选择"每千位字节"就只会支付250 yarn的手续费,&lt;br /&gt;而"总共至少"会支付1000 yarn.
 但如果交易信息大于一千字节,那么两者都要支付千字节费用.</translation>
     </message>
     <message>
@@ -3261,7 +3261,7 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>发送达世币</translation>
     </message>
     <message>
-        <source>InstantX doesn't support sending values that high yet. Transactions are currently limited to %1 THRD.</source>
+        <source>InstantX doesn't support sending values that high yet. Transactions are currently limited to %1 THD.</source>
         <translation>即时支付功能目前还不支持发送如此高的金额.目前限制在%1 达世币.</translation>
     </message>
 </context>
@@ -3348,11 +3348,11 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
     </message>
     <message>
         <source>Unable to locate enough Darksend denominated funds for this transaction.</source>
-        <translation>无法找到足够的已匿名化资金来完成交易,不足1000 THRD.</translation>
+        <translation>无法找到足够的已匿名化资金来完成交易,不足1000 THD.</translation>
     </message>
     <message>
-        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 THRD.</source>
-        <translation>无法找到足够的未匿名化资金来完成交易,不足1000 THRD.</translation>
+        <source>Unable to locate enough Darksend non-denominated funds for this transaction that are not equal 1000 THD.</source>
+        <translation>无法找到足够的未匿名化资金来完成交易,不足1000 THD.</translation>
     </message>
     <message>
         <source>Warning: -paytxfee is set very high! This is the transaction fee you will pay if you send a transaction.</source>
@@ -3547,11 +3547,11 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>允许存储在这个钱包内的资金自动使用匿名发送(0-1, 默认: %u)</translation>
     </message>
     <message>
-        <source>Fees (in THRD/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
+        <source>Fees (in THD/Kb) smaller than this are considered zero fee for relaying (default: %s)</source>
         <translation>如果手续费比这个值低,就视为没有付手续费(当产生交易时)(默认: %s)</translation>
     </message>
     <message>
-        <source>Fees (in THRD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
+        <source>Fees (in THD/Kb) smaller than this are considered zero fee for transaction creation (default: %s)</source>
         <translation>如果手续费比这个值低,就视为没有付手续费(当产生交易时)(默认: %s)</translation>
     </message>
     <message>
@@ -3595,8 +3595,8 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>此产品包括了由OpenSSL Project所开发的OpenSSL Toolkit 软件&lt;https://www.openssl.org/&gt;, 和由Eric Young 编写的加密软件, 以及由Thomas Bernard 编写的UPnP软件.</translation>
     </message>
     <message>
-        <source>Unable to locate enough funds for this transaction that are not equal 1000 THRD.</source>
-        <translation>无法找到足够的资金完成交易,不足1000 THRD.</translation>
+        <source>Unable to locate enough funds for this transaction that are not equal 1000 THD.</source>
+        <translation>无法找到足够的资金完成交易,不足1000 THD.</translation>
     </message>
     <message>
         <source>Use separate SOCKS5 proxy to reach peers via Tor hidden services (default: %s)</source>
@@ -3991,7 +3991,7 @@ https://www.transifex.com/projects/p/threadcoin/</translation>
         <translation>检测到无效脚本。</translation>
     </message>
     <message>
-        <source>Keep N THRD anonymized (default: %u)</source>
+        <source>Keep N THD anonymized (default: %u)</source>
         <translation>保持定量达世币匿名化(默认: %u)</translation>
     </message>
     <message>

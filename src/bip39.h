@@ -21,8 +21,8 @@
  * OTHER DEALINGS IN THE SOFTWARE.
  */
 
-#ifndef THRD_BIP39_H
-#define THRD_BIP39_H
+#ifndef THD_BIP39_H
+#define THD_BIP39_H
 
 #include "support/allocators/secure.h"
 

@@ -1,7 +1,7 @@
 // Copyright (c) 2014-2017 The Dash Core developers
 // Distributed under the MIT software license, see the accompanying
-#ifndef THRD_HDCHAIN_H
-#define THRD_HDCHAIN_H
+#ifndef THD_HDCHAIN_H
+#define THD_HDCHAIN_H
 
 #include "key.h"
 #include "sync.h"
@@ -149,4 +149,4 @@ public:
     std::string GetKeyPath() const;
 };
 
-#endif // THRD_HDCHAIN_H
+#endif // THD_HDCHAIN_H

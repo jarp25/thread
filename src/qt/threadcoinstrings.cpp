@@ -119,7 +119,7 @@ QT_TRANSLATE_NOOP("threadcoin-core", ""
 "testnet: %s)"),
 QT_TRANSLATE_NOOP("threadcoin-core", ""
 "InstantSend doesn't support sending values that high yet. Transactions are "
-"currently limited to %1 THRD."),
+"currently limited to %1 THD."),
 QT_TRANSLATE_NOOP("threadcoin-core", ""
 "InstantSend requires inputs with at least %d confirmations, you might need "
 "to wait a few minutes and try again."),
@@ -226,10 +226,10 @@ QT_TRANSLATE_NOOP("threadcoin-core", ""
 "Unable to locate enough PrivateSend denominated funds for this transaction."),
 QT_TRANSLATE_NOOP("threadcoin-core", ""
 "Unable to locate enough PrivateSend non-denominated funds for this "
-"transaction that are not equal 1000 THRD."),
+"transaction that are not equal 1000 THD."),
 QT_TRANSLATE_NOOP("threadcoin-core", ""
 "Unable to locate enough funds for this transaction that are not equal 1000 "
-"THRD."),
+"THD."),
 QT_TRANSLATE_NOOP("threadcoin-core", ""
 "Unsupported argument -socks found. Setting SOCKS version isn't possible "
 "anymore, only SOCKS5 proxies are supported."),
@@ -403,7 +403,7 @@ QT_TRANSLATE_NOOP("threadcoin-core", "Invalid port detected in masternode.conf")
 QT_TRANSLATE_NOOP("threadcoin-core", "Invalid script detected."),
 QT_TRANSLATE_NOOP("threadcoin-core", "KeePassHttp id for the established association"),
 QT_TRANSLATE_NOOP("threadcoin-core", "KeePassHttp key for AES encrypted communication with KeePass"),
-QT_TRANSLATE_NOOP("threadcoin-core", "Keep N THRD anonymized (default: %u)"),
+QT_TRANSLATE_NOOP("threadcoin-core", "Keep N THD anonymized (default: %u)"),
 QT_TRANSLATE_NOOP("threadcoin-core", "Keep at most <n> unconnectable transactions in memory (default: %u)"),
 QT_TRANSLATE_NOOP("threadcoin-core", "Keep the transaction memory pool below <n> megabytes (default: %u)"),
 QT_TRANSLATE_NOOP("threadcoin-core", "Keypool ran out, please call keypoolrefill first"),

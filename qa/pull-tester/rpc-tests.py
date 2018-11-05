@@ -62,10 +62,10 @@ for arg in sys.argv[1:]:
 
 #Set env vars
 buildDir = BUILDDIR
-if "THRDD" not in os.environ:
-    os.environ["THRDD"] = buildDir + '/src/threadcoind' + EXEEXT
-if "THRDCLI" not in os.environ:
-    os.environ["THRDCLI"] = buildDir + '/src/threadcoin-cli' + EXEEXT
+if "THDD" not in os.environ:
+    os.environ["THDD"] = buildDir + '/src/threadcoind' + EXEEXT
+if "THDCLI" not in os.environ:
+    os.environ["THDCLI"] = buildDir + '/src/threadcoin-cli' + EXEEXT
 
 if EXEEXT == ".exe" and "-win" not in opts:
     # https://github.com/bitcoin/bitcoin/commit/d52802551752140cf41f0d9a225a43e84404d3e9

@@ -19,10 +19,10 @@ BitcoinUnits::BitcoinUnits(QObject *parent):
 QList<BitcoinUnits::Unit> BitcoinUnits::availableUnits()
 {
     QList<BitcoinUnits::Unit> unitlist;
-    unitlist.append(THRD);
-    unitlist.append(mTHRD);
-    unitlist.append(uTHRD);
-    unitlist.append(duffs);
+    unitlist.append(THD);
+    unitlist.append(mTHD);
+    unitlist.append(uTHD);
+    unitlist.append(yarn);
     return unitlist;
 }
 
@@ -30,10 +30,10 @@ bool BitcoinUnits::valid(int unit)
 {
     switch(unit)
     {
-    case THRD:
-    case mTHRD:
-    case uTHRD:
-    case duffs:
+    case THD:
+    case mTHD:
+    case uTHD:
+    case yarn:
         return true;
     default:
         return false;
@@ -46,10 +46,10 @@ QString BitcoinUnits::name(int unit)
     {
         switch(unit)
         {
-            case THRD: return QString("THRD");
-            case mTHRD: return QString("mTHRD");
-            case uTHRD: return QString::fromUtf8("μTHRD");
-            case duffs: return QString("duffs");
+            case THD: return QString("THD");
+            case mTHD: return QString("mTHD");
+            case uTHD: return QString::fromUtf8("μTHD");
+            case yarn: return QString("yarn");
             default: return QString("???");
         }
     }
@@ -57,10 +57,10 @@ QString BitcoinUnits::name(int unit)
     {
         switch(unit)
         {
-            case THRD: return QString("tTHRD");
-            case mTHRD: return QString("mtTHRD");
-            case uTHRD: return QString::fromUtf8("μtTHRD");
-            case duffs: return QString("tduffs");
+            case THD: return QString("tTHD");
+            case mTHD: return QString("mtTHD");
+            case uTHD: return QString::fromUtf8("μtTHD");
+            case yarn: return QString("tyarn");
             default: return QString("???");
         }
     }
@@ -72,10 +72,10 @@ QString BitcoinUnits::description(int unit)
     {
         switch(unit)
         {
-            case THRD: return QString("Threadcoin");
-            case mTHRD: return QString("Milli-Threadcoin (1 / 1" THIN_SP_UTF8 "000)");
-            case uTHRD: return QString("Micro-Threadcoin (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-            case duffs: return QString("Ten Nano-Threadcoin (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case THD: return QString("Threadcoin");
+            case mTHD: return QString("Milli-Threadcoin (1 / 1" THIN_SP_UTF8 "000)");
+            case uTHD: return QString("Micro-Threadcoin (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case yarn: return QString("Ten Nano-Threadcoin (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
             default: return QString("???");
         }
     }
@@ -83,10 +83,10 @@ QString BitcoinUnits::description(int unit)
     {
         switch(unit)
         {
-            case THRD: return QString("TestThreadcoins");
-            case mTHRD: return QString("Milli-TestThreadcoin (1 / 1" THIN_SP_UTF8 "000)");
-            case uTHRD: return QString("Micro-TestThreadcoin (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
-            case duffs: return QString("Ten Nano-TestThreadcoin (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case THD: return QString("TestThreadcoins");
+            case mTHD: return QString("Milli-TestThreadcoin (1 / 1" THIN_SP_UTF8 "000)");
+            case uTHD: return QString("Micro-TestThreadcoin (1 / 1" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
+            case yarn: return QString("Ten Nano-TestThreadcoin (1 / 100" THIN_SP_UTF8 "000" THIN_SP_UTF8 "000)");
             default: return QString("???");
         }
     }
@@ -96,10 +96,10 @@ qint64 BitcoinUnits::factor(int unit)
 {
     switch(unit)
     {
-    case THRD:  return 100000000;
-    case mTHRD: return 100000;
-    case uTHRD: return 100;
-    case duffs: return 1;
+    case THD:  return 100000000;
+    case mTHD: return 100000;
+    case uTHD: return 100;
+    case yarn: return 1;
     default:   return 100000000;
     }
 }
@@ -108,10 +108,10 @@ int BitcoinUnits::decimals(int unit)
 {
     switch(unit)
     {
-    case THRD: return 8;
-    case mTHRD: return 5;
-    case uTHRD: return 2;
-    case duffs: return 0;
+    case THD: return 8;
+    case mTHD: return 5;
+    case uTHD: return 2;
+    case yarn: return 0;
     default: return 0;
     }
 }
